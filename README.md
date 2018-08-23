@@ -1,5 +1,5 @@
 # AdMobExamples
-Simple example for banner unit and InterstitialAd
+This is a simple example for banner unit and InterstitialAd
 
 The project target is android 4.4 and use Xamarin.GooglePlayServices.Ads and Xamarin.Forms
 
