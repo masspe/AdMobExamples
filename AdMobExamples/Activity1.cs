@@ -21,7 +21,8 @@ namespace AdModExamples
             , ConfigurationChanges = ConfigChanges.Orientation | ConfigChanges.Keyboard | ConfigChanges.KeyboardHidden | ConfigChanges.ScreenSize)]
         public class Activity1 : Microsoft.Xna.Framework.AndroidGameActivity
         {
-            string appID = "ca-app-pub-9033799094858050/5564654580";
+        // insert banner Ad unit ID
+              string bannerID = "ca-app-pub-9033799094858050/5564654580";
 
             protected override void OnCreate(Bundle bundle)
             {
@@ -50,7 +51,7 @@ namespace AdModExamples
               
 
                     //----------------------------------------------banner add stuff
-                    AdView _bannerad = AdWrapper.ConstructStandardBanner(this, AdSize.SmartBanner, appID);
+                    AdView _bannerad = AdWrapper.ConstructStandardBanner(this, AdSize.SmartBanner, bannerID);
                     var listener = new adlistener();
                     listener.AdLoaded += () => { };
                     _bannerad.AdListener = listener;
