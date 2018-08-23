@@ -69,5 +69,3 @@ C:\Users\Maintenant Prêt\source\repos\AdModExamples\AdModExamples\obj\Debug\lin
 C:\Users\Maintenant Prêt\source\repos\AdModExamples\AdModExamples\obj\Debug\linksrc\AdMobExamples.dll.mdb
 C:\Users\Maintenant Prêt\source\repos\AdModExamples\AdModExamples\bin\Android\AnyCPU\Debug\AdMobExamples.dll.mdb
 C:\Users\Maintenant Prêt\source\repos\AdModExamples\AdModExamples\obj\Debug\android\assets\AdMobExamples.dll.mdb
-C:\Users\Maintenant Prêt\source\repos\AdModExamples\AdModExamples\bin\Android\AnyCPU\Debug\AdMobExamples.dll
-C:\Users\Maintenant Prêt\source\repos\AdModExamples\AdModExamples\obj\Debug\linksrc\AdMobExamples.dll.mdb
