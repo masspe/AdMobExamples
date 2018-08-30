@@ -21,3 +21,5 @@ in Activity1.cs insert your Banner Ad unit ID, in order to show the bottom banne
   
 
 The app has 3 button the first show the Interstitial and increase the points the second and the third enable and disable the banner
+
+Every 60 sec the App activate the Interstitial and after 5 sec reactivate the APP
