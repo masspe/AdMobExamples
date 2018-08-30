@@ -68,7 +68,9 @@ namespace RenderEngine.Screens
      
         public int Level = 0;
 
-        public int points = 0;
+
+        // AdMobInter -> OnAdClosed();
+        public int Credits = 0;
     
         private GameScreen screen;
         private bool otherScreenHasFocus;

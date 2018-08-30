@@ -8,6 +8,7 @@ using Android.Gms.Ads;
 using Android.Support.V4;
 using Android.Gms.Ads.Reward;
 using System;
+using Android.Content;
 
 namespace AdModExamples
 {
@@ -26,18 +27,28 @@ namespace AdModExamples
 
             protected override void OnCreate(Bundle bundle)
             {
+                InterOperAct.activity1 = this;  
                 base.OnCreate(bundle);
+                this.Window.SetFlags(WindowManagerFlags.KeepScreenOn, WindowManagerFlags.KeepScreenOn);
+
                 Forms.Init(this, bundle);
 
                 //Game1 + ADS creation
                 var g = createAds();
+                
 
-
-                g.Run();
+            g.Run();
             }
 
+        protected override void OnStart()
+        {
+            base.OnStart();
+          
+        }
 
-            private Game1 createAds()
+       
+
+        private Game1 createAds()
             {
                 Game1 g = null;
                 try
@@ -52,9 +63,9 @@ namespace AdModExamples
 
                     //----------------------------------------------banner add stuff
                     AdView _bannerad = AdWrapper.ConstructStandardBanner(this, AdSize.SmartBanner, bannerID);
-                    var listener = new adlistener();
+                   /* var listener = new adlistener();
                     listener.AdLoaded += () => { };
-                    _bannerad.AdListener = listener;
+                    _bannerad.AdListener = listener; */
                     _bannerad.CustomBuild();
 
 

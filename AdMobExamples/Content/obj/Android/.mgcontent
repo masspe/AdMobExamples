@@ -4,22 +4,22 @@
   <Platform>Android</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/Maintenant Prêt/source/repos/AdModExamples/AdModExamples/Content/Fonts/font.spritefont</File>
-    <File>C:/Users/Maintenant Prêt/source/repos/AdModExamples/AdModExamples/Content/Fonts/screenfont.spritefont</File>
-    <File>C:/Users/Maintenant Prêt/source/repos/AdModExamples/AdModExamples/Content/Screens/bg.png</File>
-    <File>C:/Users/Maintenant Prêt/source/repos/AdModExamples/AdModExamples/Content/Screens/blank.png</File>
-    <File>C:/Users/Maintenant Prêt/source/repos/AdModExamples/AdModExamples/Content/Screens/bluebar.png</File>
-    <File>C:/Users/Maintenant Prêt/source/repos/AdModExamples/AdModExamples/Content/Screens/box.png</File>
-    <File>C:/Users/Maintenant Prêt/source/repos/AdModExamples/AdModExamples/Content/Screens/button.png</File>
-    <File>C:/Users/Maintenant Prêt/source/repos/AdModExamples/AdModExamples/Content/Screens/callout.png</File>
-    <File>C:/Users/Maintenant Prêt/source/repos/AdModExamples/AdModExamples/Content/Screens/cancel.png</File>
-    <File>C:/Users/Maintenant Prêt/source/repos/AdModExamples/AdModExamples/Content/Screens/gradient.png</File>
-    <File>C:/Users/Maintenant Prêt/source/repos/AdModExamples/AdModExamples/Content/Screens/logo.png</File>
-    <File>C:/Users/Maintenant Prêt/source/repos/AdModExamples/AdModExamples/Content/Screens/msgleft.png</File>
-    <File>C:/Users/Maintenant Prêt/source/repos/AdModExamples/AdModExamples/Content/Screens/msgright.png</File>
-    <File>C:/Users/Maintenant Prêt/source/repos/AdModExamples/AdModExamples/Content/Screens/OK.png</File>
-    <File>C:/Users/Maintenant Prêt/source/repos/AdModExamples/AdModExamples/Content/Sounds/Click01.wav</File>
-    <File>C:/Users/Maintenant Prêt/source/repos/AdModExamples/AdModExamples/Content/Sounds/menu-back.wav</File>
-    <File>C:/Users/Maintenant Prêt/source/repos/AdModExamples/AdModExamples/Content/Sounds/menu-validate.wav</File>
+    <File>C:/Users/Maintenant Prêt/source/repos/AdMobExamples/AdMobExamples/Content/Fonts/font.spritefont</File>
+    <File>C:/Users/Maintenant Prêt/source/repos/AdMobExamples/AdMobExamples/Content/Fonts/screenfont.spritefont</File>
+    <File>C:/Users/Maintenant Prêt/source/repos/AdMobExamples/AdMobExamples/Content/Screens/bg.png</File>
+    <File>C:/Users/Maintenant Prêt/source/repos/AdMobExamples/AdMobExamples/Content/Screens/blank.png</File>
+    <File>C:/Users/Maintenant Prêt/source/repos/AdMobExamples/AdMobExamples/Content/Screens/bluebar.png</File>
+    <File>C:/Users/Maintenant Prêt/source/repos/AdMobExamples/AdMobExamples/Content/Screens/box.png</File>
+    <File>C:/Users/Maintenant Prêt/source/repos/AdMobExamples/AdMobExamples/Content/Screens/button.png</File>
+    <File>C:/Users/Maintenant Prêt/source/repos/AdMobExamples/AdMobExamples/Content/Screens/callout.png</File>
+    <File>C:/Users/Maintenant Prêt/source/repos/AdMobExamples/AdMobExamples/Content/Screens/cancel.png</File>
+    <File>C:/Users/Maintenant Prêt/source/repos/AdMobExamples/AdMobExamples/Content/Screens/gradient.png</File>
+    <File>C:/Users/Maintenant Prêt/source/repos/AdMobExamples/AdMobExamples/Content/Screens/logo.png</File>
+    <File>C:/Users/Maintenant Prêt/source/repos/AdMobExamples/AdMobExamples/Content/Screens/msgleft.png</File>
+    <File>C:/Users/Maintenant Prêt/source/repos/AdMobExamples/AdMobExamples/Content/Screens/msgright.png</File>
+    <File>C:/Users/Maintenant Prêt/source/repos/AdMobExamples/AdMobExamples/Content/Screens/OK.png</File>
+    <File>C:/Users/Maintenant Prêt/source/repos/AdMobExamples/AdMobExamples/Content/Sounds/Click01.wav</File>
+    <File>C:/Users/Maintenant Prêt/source/repos/AdMobExamples/AdMobExamples/Content/Sounds/menu-back.wav</File>
+    <File>C:/Users/Maintenant Prêt/source/repos/AdMobExamples/AdMobExamples/Content/Sounds/menu-validate.wav</File>
   </SourceFiles>
 </SourceFileCollection>

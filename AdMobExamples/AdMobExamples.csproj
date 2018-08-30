@@ -90,6 +90,7 @@
     <Compile Include="BackgroundScreen.cs" />
     <Compile Include="Game1.cs" />
     <Compile Include="GameScreen.cs" />
+    <Compile Include="Helper.cs" />
     <Compile Include="InputState.cs" />
     <Compile Include="LoadingScreen.cs" />
     <Compile Include="MainMenuScreen.cs" />
@@ -102,6 +103,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ScreenManager.cs" />
     <Compile Include="TextInput.cs" />
+    <Compile Include="ToastBroadcast.cs" />
     <Compile Include="TouchKey.cs" />
   </ItemGroup>
   <ItemGroup>

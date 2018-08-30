@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/Maintenant Prêt/source/repos/AdModExamples/AdModExamples/Content/Fonts/font.spritefont</SourceFile>
+  <SourceFile>C:/Users/Maintenant Prêt/source/repos/AdMobExamples/AdMobExamples/Content/Fonts/font.spritefont</SourceFile>
   <SourceTime>2018-08-12T09:09:08.5002401+02:00</SourceTime>
-  <DestFile>C:/Users/Maintenant Prêt/source/repos/AdModExamples/AdModExamples/Content/bin/Android/Fonts/font.xnb</DestFile>
-  <DestTime>2018-08-23T11:48:30.6497395+02:00</DestTime>
+  <DestFile>C:/Users/Maintenant Prêt/source/repos/AdMobExamples/AdMobExamples/Content/bin/Android/Fonts/font.xnb</DestFile>
+  <DestTime>2018-08-23T16:21:32.6600985+02:00</DestTime>
   <Importer>FontDescriptionImporter</Importer>
   <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
   <Processor>FontDescriptionProcessor</Processor>

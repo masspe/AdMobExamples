@@ -1,9 +1,16 @@
 ﻿using Android.Gms.Ads;
 using Android.Gms.Ads.Reward;
+using RenderEngine.Screens;
+
 namespace AdModExamples
 {
     class adlistener : AdListener
     {
+        ScreenManager Manager;
+        public adlistener(ScreenManager Manager):base()
+        {
+            this.Manager = Manager;
+        }
         // Declare the delegate (if using non-generic pattern). 
         public delegate void AdLoadedEvent();
         public delegate void AdClosedEvent();
@@ -26,6 +33,7 @@ namespace AdModExamples
         public override void OnAdClosed()
         {
             if (AdClosed != null) this.AdClosed();
+            Manager.Credits += 1000;
             base.OnAdClosed();
         }
 
